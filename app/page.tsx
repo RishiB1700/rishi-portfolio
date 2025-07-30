@@ -7,10 +7,10 @@ import { Volume2, VolumeX, ArrowRight, ExternalLink, Eye, Mail, Linkedin, Instag
 import projectsData from '../data/projects.json'
 
 // Mock blog data (replace with actual when available)
-const mockBlogs = []
+const mockBlogs: any[] = []
 
 // Mock campaign data (replace with actual when available) 
-const mockCampaigns = []
+const mockCampaigns: any[] = []
 
 // Accessibility: Respect reduced motion preferences
 const useAccessibleMotion = () => {
@@ -549,7 +549,7 @@ export default function EnhancedHome() {
             </KineticText>
             
             <motion.p
-              className="text-xl md:text-2xl text-gray-700 font-inter font-light italic max-w-4xl mx-auto leading-relaxed px-4"
+              className="text-lg sm:text-xl md:text-2xl text-gray-600 font-inter font-light max-w-4xl mx-auto leading-relaxed px-4"
               initial={{ opacity: 0, y: 30 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: motionSettings.duration || 2, duration: motionSettings.duration || 1 }}
