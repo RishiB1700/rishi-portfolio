@@ -12,6 +12,51 @@ const mockBlogs: any[] = []
 // Mock campaign data (replace with actual when available) 
 const mockCampaigns: any[] = []
 
+// TypeScript Interfaces
+interface KineticTextProps {
+  children: string
+  className?: string
+  delay?: number
+  as?: React.ElementType
+}
+
+interface SectionProps {
+  children: React.ReactNode
+  className?: string
+  parallax?: boolean
+  as?: React.ElementType
+  id?: string
+  ariaLabel?: string
+}
+
+interface MorphingCardProps {
+  children: React.ReactNode
+  className?: string
+  hoverColor?: string
+  as?: React.ElementType
+  role?: string
+  tabIndex?: number
+  onClick?: () => void
+  onKeyDown?: (e: React.KeyboardEvent) => void
+  ariaLabel?: string
+}
+
+interface PDFViewerProps {
+  pdfUrl: string
+  title: string
+  isOpen: boolean
+  onClose: () => void
+}
+
+interface Project {
+  id: number
+  title: string
+  insight: string
+  category: string
+  previewImage?: string
+  heroImage: string
+}
+
 // Accessibility: Respect reduced motion preferences
 const useAccessibleMotion = () => {
   const [isClient, setIsClient] = useState(false)
@@ -29,7 +74,7 @@ const useAccessibleMotion = () => {
 }
 
 // Enhanced Kinetic Text with accessibility improvements
-const KineticText = ({ children, className = "", delay = 0, as: Component = "div" }) => {
+const KineticText = ({ children, className = "", delay = 0, as: Component = "div" }: KineticTextProps) => {
   const words = children.split(' ')
   const motionSettings = useAccessibleMotion()
   
@@ -63,7 +108,7 @@ const KineticText = ({ children, className = "", delay = 0, as: Component = "div
 }
 
 // Enhanced Section with better responsive and accessibility
-const Section = ({ children, className = "", parallax = false, as: Component = "section", id, ariaLabel }) => {
+const Section = ({ children, className = "", parallax = false, as: Component = "section", id, ariaLabel }: SectionProps) => {
   const { scrollYProgress } = useScroll()
   const y = useTransform(scrollYProgress, [0, 1], ['0%', parallax ? '20%' : '0%'])
   const motionSettings = useAccessibleMotion()
@@ -98,12 +143,12 @@ const MorphingCard = ({
   onClick,
   onKeyDown,
   ariaLabel
-}) => {
+}: MorphingCardProps) => {
   const [isHovered, setIsHovered] = useState(false)
   const [isFocused, setIsFocused] = useState(false)
   const motionSettings = useAccessibleMotion()
   
-  const handleKeyDown = (e) => {
+  const handleKeyDown = (e: React.KeyboardEvent) => {
     if (e.key === 'Enter' || e.key === ' ') {
       e.preventDefault()
       onClick?.()
@@ -151,7 +196,7 @@ const MorphingCard = ({
 }
 
 // PDF Viewer Component with accessibility
-const PDFViewer = ({ pdfUrl, title, isOpen, onClose }) => {
+const PDFViewer = ({ pdfUrl, title, isOpen, onClose }: PDFViewerProps) => {
   const [isClient, setIsClient] = useState(false)
   const motionSettings = useAccessibleMotion()
 
@@ -169,7 +214,7 @@ const PDFViewer = ({ pdfUrl, title, isOpen, onClose }) => {
       // Focus the modal when it opens
       setTimeout(() => {
         const modal = document.querySelector('[role="dialog"]')
-        if (modal) modal.focus()
+        if (modal) (modal as HTMLElement).focus()
       }, 100)
     } else {
       document.body.style.overflow = ''
@@ -263,7 +308,7 @@ const ResumeViewButton = () => {
     }
   ]
 
-  const openPDF = (url, title) => {
+  const openPDF = (url: string, title: string) => {
     setCurrentPDFUrl(url)
     setCurrentPDFTitle(title)
     setIsPDFViewerOpen(true)
@@ -271,7 +316,7 @@ const ResumeViewButton = () => {
   }
 
   // Keyboard navigation
-  const handleKeyDown = (e) => {
+  const handleKeyDown = (e: KeyboardEvent) => {
     if (e.key === 'Escape') {
       setIsModalOpen(false)
     }
@@ -401,7 +446,7 @@ const ResumeViewButton = () => {
 export default function EnhancedHome() {
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 })
   const [isAudioEnabled, setIsAudioEnabled] = useState(false)
-  const [randomProjects, setRandomProjects] = useState([])
+  const [randomProjects, setRandomProjects] = useState<Project[]>([])
   const [isClient, setIsClient] = useState(false)
   const [prefersReducedMotion, setPrefersReducedMotion] = useState(false)
   const motionSettings = useAccessibleMotion()
@@ -415,7 +460,7 @@ export default function EnhancedHome() {
       const mediaQuery = window.matchMedia('(prefers-reduced-motion: reduce)')
       setPrefersReducedMotion(mediaQuery.matches)
       
-      const handleChange = (e) => setPrefersReducedMotion(e.matches)
+      const handleChange = (e: MediaQueryListEvent) => setPrefersReducedMotion(e.matches)
       mediaQuery.addEventListener('change', handleChange)
       
       return () => mediaQuery.removeEventListener('change', handleChange)
@@ -425,7 +470,7 @@ export default function EnhancedHome() {
   // Get 3 random projects on component mount
   useEffect(() => {
     const getRandomProjects = () => {
-      const shuffled = [...projectsData].sort(() => 0.5 - Math.random())
+      const shuffled = [...(projectsData as Project[])].sort(() => 0.5 - Math.random())
       return shuffled.slice(0, 3)
     }
     setRandomProjects(getRandomProjects())
@@ -435,7 +480,7 @@ export default function EnhancedHome() {
   useEffect(() => {
     if (!isClient || prefersReducedMotion) return
 
-    const handleMouseMove = (e) => {
+    const handleMouseMove = (e: MouseEvent) => {
       setMousePosition({ 
         x: e.clientX,
         y: e.clientY
