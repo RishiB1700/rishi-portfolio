@@ -15,7 +15,7 @@ export default function Blog() {
   const [floatingElements, setFloatingElements] = useState<Array<{ type: string; x: number; y: number; delay: number; rotation: number }>>([])
   const [loading, setLoading] = useState(true)
 
-  const filters = ['All', 'strategy', 'reflections', 'reviews', 'behind-the-scenes']
+  const filters = ['All', 'Strategy', 'Reflections', 'Reviews', 'Behind the Scenes']
 
   // Fetch posts from Sanity
   useEffect(() => {
@@ -34,8 +34,8 @@ export default function Blog() {
   }, [])
 
   const filteredPosts = activeFilter === 'All' 
-    ? posts 
-    : posts.filter(post => post.category === activeFilter)
+  ? posts 
+  : posts.filter(post => post.categories && post.categories.includes(activeFilter))
 
   const sortedPosts = [...filteredPosts].sort((a, b) => {
     if (sortBy === 'Newest') {
@@ -411,7 +411,7 @@ export default function Blog() {
                       <span>{post.readTime}</span>
                     </div>
                     <div className="w-1 h-1 bg-gray-400 rounded-full"></div>
-                    <span>{post.category}</span>
+                    <span>{post.categories && post.categories.length > 0 ? post.categories[0] : 'General'}</span>
                   </div>
 
                   <div className="flex flex-wrap gap-2">

@@ -1,11 +1,11 @@
-import {TvIcon} from '@sanity/icons'
+import {PlayIcon} from '@sanity/icons'
 import {defineField, defineType} from 'sanity'
 
 export const adArchiveType = defineType({
   name: 'adArchive',
   title: 'Ad Archive',
   type: 'document',
-  icon: TvIcon,
+  icon: PlayIcon,
   fields: [
     defineField({
       name: 'campaignName',
