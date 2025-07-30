@@ -1,0 +1,612 @@
+[
+  {
+    "id": 1,
+    "title": "Foldronic: Refold the Future",
+    "subtitle": "Ad design and brand identity system for a robotic cloth-folding device",
+    "year": "2023",
+    "projectType": "caseStudy",
+    "category": "Strategy",
+    "tags": ["Ad Campaign", "Brand Manual", "Consumer Electronics"],
+    "categoryTags": ["Strategy"],
+    "insight": "Built awareness and visual identity for a first-of-its-kind smart cloth-folding machine with futuristic branding.",
+    "challenge": "To build awareness and visual identity for a first-of-its-kind smart cloth-folding machine.",
+    "strategy": "Developed a cohesive campaign spanning digital, outdoor, and merchandise with strong futuristic branding anchored in the tagline: 'Refold the Future'.",
+    "process": [
+      "Created branding assets including logo, typography, and packaging",
+      "Designed 360° campaign assets: POP displays, web, merchandise, radio, and storyboard for TVC",
+      "Authored brand manual for unified application"
+    ],
+    "results": [
+      {
+        "metric": "100%",
+        "value": "brand identity coverage",
+        "description": "Complete visual system from logo to packaging"
+      },
+      {
+        "metric": "360°",
+        "value": "campaign touchpoints",
+        "description": "Digital, outdoor, merchandise, and broadcast assets"
+      }
+    ],
+    "learnings": "Future-oriented design must be both imaginative and user-accessible. Integrating robotics into daily life works best with clarity and minimalism.",
+    "previewImage": "/images/projects/foldronic.png",
+    "heroImage": "/images/projects/foldronic.png",
+    "heroType": "image",
+    "assetsDownload": "https://drive.google.com/file/d/1o3m7s-SYF0Ee-cI785BzOtXtU_GY92KP/preview"
+  },
+  {
+    "id": 2,
+    "title": "SUSTANE: Podcast-Centered Sustainability Campaign",
+    "subtitle": "Building a purpose-driven content strategy for a Gen Z eco-audience",
+    "year": "2024",
+    "projectType": "caseStudy",
+    "category": "Strategy",
+    "tags": ["Strategy", "Media Planning", "Content Marketing", "Sustainability"],
+    "categoryTags": ["Strategy"],
+    "insight": "Cultivated a loyal Gen Z eco-audience through satirical animated podcast content and community integration.",
+    "challenge": "How can a new sustainability-focused brand cultivate a loyal, informed, and engaged Gen Z audience through emotionally resonant media?",
+    "strategy": "Developed a multi-platform animated podcast campaign—SUSTANEyourself—leveraging satire, cultural influencers, and community integration to spread environmental messaging.",
+    "process": [
+      "Researched Gen Z behavioral trends, podcast discoverability patterns, and sustainability communication best practices",
+      "Structured content to blend humor and critique with direct calls to action",
+      "Platform targeting included Spotify, YouTube, TikTok, and Instagram"
+    ],
+    "results": [
+      {
+        "metric": "Multi-platform",
+        "value": "strategic roadmap",
+        "description": "Robust content strategy with detailed mockups and guest curation"
+      },
+      {
+        "metric": "Long-term",
+        "value": "revenue models",
+        "description": "Syndication, brand sponsorship, and community-sourced content"
+      }
+    ],
+    "learnings": "Satirical, visually engaging formats dramatically improve participation in cause-based media. Thoughtful platform selection and clear brand tone are critical for credibility and traction.",
+    "previewImage": "/images/projects/sustane.jpg",
+    "heroImage": "/images/projects/sustane.jpg",
+    "heroType": "image",
+    "assetsDownload": "https://drive.google.com/file/d/1f3D0l0VNJUA67osms8vwODUjWBBjhefX/preview"
+  },
+  {
+    "id": 3,
+    "title": "InOther News: The Economics of a Sustainable News Brand",
+    "subtitle": "Developing phased business models for journalistic and entrepreneurial innovation",
+    "year": "2023",
+    "projectType": "caseStudy",
+    "category": "Strategy",
+    "tags": ["Entrepreneurship", "Strategy", "Revenue Models", "Media Innovation"],
+    "categoryTags": ["Strategy"],
+    "insight": "Built resilient business models for independent digital media through phased monetization strategies.",
+    "challenge": "Independent digital media brands face shrinking ad revenues and fragmented audiences. How can startups build resilient models for long-term viability?",
+    "strategy": "Built a phased business model roadmap focusing on three stages: Community Building, Monetization, and Diversification. Each phase had unique KPIs and revenue levers—starting with low-lift engagement channels and evolving into syndication/consulting models.",
+    "process": [
+      "Compared 6 global case studies of successful independent media brands",
+      "Developed financial charts and media kit mockups for investor presentations",
+      "Created frameworks for subscription tiers, archive monetization, and freelancer networks"
+    ],
+    "results": [
+      {
+        "metric": "$92K",
+        "value": "projected annual revenue",
+        "description": "By end of phase 2 through blended monetization strategies"
+      },
+      {
+        "metric": "2-year",
+        "value": "viability forecast",
+        "description": "Comprehensive investor pitch with sustainable growth projections"
+      }
+    ],
+    "learnings": "Sustainable journalism doesn't just rely on storytelling—it's driven by strategic infrastructure and early-stage platform trust. Clear value tiers and content extensions are critical to survival.",
+    "previewImage": "/images/projects/media-econ.jpg",
+    "heroImage": "/images/projects/media-econ.jpg",
+    "heroType": "image",
+    "assetsDownload": "https://drive.google.com/file/d/1NGkj1p7zz4AchpDyfBBSLqadrxXtGxEU/preview"
+  },
+  {
+    "id": 4,
+    "title": "AI in Programmatic Advertising",
+    "subtitle": "Investigating automation, ethics, and media control in modern ad systems",
+    "year": "2024",
+    "projectType": "research",
+    "category": "Research",
+    "tags": ["Research", "Advertising", "AI", "Media Systems", "Ethics"],
+    "categoryTags": ["Research"],
+    "insight": "Evaluated AI's impact on programmatic advertising, revealing efficiency gains alongside ethical concerns.",
+    "researchFocus": "This research project evaluates how artificial intelligence is shaping the landscape of programmatic advertising—specifically looking at personalization, budget allocation, and ethical boundaries.",
+    "methodology": "Qualitative content analysis of advertising whitepapers, case studies from Google Ads and The Trade Desk, and interviews with media practitioners. Used academic frameworks on automation bias and algorithmic opacity.",
+    "keyFindings": "AI enables efficient spend allocation and audience targeting, but it also reinforces confirmation bias and lacks transparency. Systems often default to engagement-maximizing patterns that may undermine diversity and equity in messaging.",
+    "implications": "Marketers and policymakers must collaborate to create audit-friendly AI frameworks. Ethical advertising requires human override layers, diversity-informed datasets, and campaign-level fairness metrics.",
+    "previewImage": "/images/projects/ai-programmatic.jpg",
+    "heroImage": "/images/projects/ai-programmatic.jpg",
+    "heroType": "image",
+    "assetsDownload": "https://drive.google.com/file/d/1efyH2yqBT_mQ9qa-VPqBunraLsqZ4dyV/preview"
+  },
+  {
+    "id": 5,
+    "title": "Poppi: Social Media Strategy Campaign",
+    "subtitle": "Influencer-first, Gen Z-targeted campaign plan for a prebiotic soda brand",
+    "year": "2024",
+    "projectType": "caseStudy",
+    "category": "Strategy",
+    "tags": ["Strategy", "Social Media", "Influencer Marketing", "Health Branding"],
+    "categoryTags": ["Strategy"],
+    "insight": "Positioned Poppi as the go-to prebiotic soda for Gen Z through lifestyle-focused influencer campaigns.",
+    "challenge": "Position Poppi as the go-to prebiotic soda for Gen Z by increasing online reach, relatability, and product trial conversion.",
+    "strategy": "Developed a four-phase social media campaign targeting Instagram, TikTok, and Pinterest with influencer segmentation based on audience tiers. Messaging centered around the 'Poppi Girl Routine' lifestyle aesthetic and health benefits.",
+    "process": [
+      "Outlined content expectations and built influencer briefings for different audience tiers",
+      "Built comprehensive hashtag strategies and platform-native content guidelines",
+      "Created user-generated challenge campaigns to drive organic engagement"
+    ],
+    "results": [
+      {
+        "metric": "Multi-platform",
+        "value": "engagement strategy",
+        "description": "Projected engagement spikes across Instagram, TikTok, and Pinterest"
+      },
+      {
+        "metric": "Celebrity",
+        "value": "brand association",
+        "description": "Increased brand recall through strategic influencer partnerships"
+      }
+    ],
+    "learnings": "Clear lifestyle messaging, tiered influencer outreach, and continuous content adaptation based on real-time metrics are key to social campaign success.",
+    "previewImage": "/images/projects/poppi.jpg",
+    "heroImage": "/images/projects/poppi.jpg",
+    "heroType": "image",
+    "assetsDownload": "https://drive.google.com/file/d/1UgTAzpQsJS8_-9qK-do-zAiEfe6k9KV_/preview"
+  },
+  {
+    "id": 6,
+    "title": "Fresco: Direct Marketing Strategy",
+    "subtitle": "A ready-to-blend frozen smoothie brand's full-funnel direct marketing plan",
+    "year": "2023",
+    "projectType": "caseStudy",
+    "category": "Strategy",
+    "tags": ["Case Study", "Marketing", "Branding", "Direct Marketing", "FMCG"],
+    "categoryTags": ["Strategy"],
+    "insight": "Introduced a new FMCG smoothie brand through targeted direct marketing emphasizing convenience and health benefits.",
+    "challenge": "Introduce a new FMCG smoothie brand in a competitive health-conscious market, while emphasizing ease and convenience.",
+    "strategy": "Segmented the audience by psychographic and demographic profiles, and mapped out a tailored direct marketing mix using digital and physical media.",
+    "process": [
+      "Developed channel-wise collateral including emailers, WhatsApp pushes, and social media content",
+      "Created physical marketing materials like hoardings, leaflets, and point-of-sale displays",
+      "Employed the 4Ps of marketing framework to align message delivery with consumer context"
+    ],
+    "results": [
+      {
+        "metric": "Strong",
+        "value": "brand recall",
+        "description": "Campaign hashtags like #FrescoTheNewFresh generated significant awareness"
+      },
+      {
+        "metric": "Word-of-mouth",
+        "value": "amplification",
+        "description": "Popup presence and testimonials drove organic interest"
+      }
+    ],
+    "learnings": "Hyperlocal, consistent messaging supported by multichannel assets can differentiate even in a saturated wellness space. Direct marketing thrives on clarity and sensory storytelling.",
+    "previewImage": "/images/projects/direct-marketing.jpg",
+    "heroImage": "/images/projects/direct-marketing.jpg",
+    "heroType": "image",
+    "assetsDownload": "https://drive.google.com/file/d/1IM36TkNyE4uiEJ0KtpFMzdxEab1XBKlh/preview"
+  },
+  {
+    "id": 7,
+    "title": "Levi's: Building Brand Loyalty Through Social Content",
+    "subtitle": "Reimagining Levi's online presence with personas, platforms, and purpose",
+    "year": "2021",
+    "projectType": "caseStudy",
+    "category": "Strategy",
+    "tags": ["Social Media", "Brand Strategy", "Content Marketing", "Influencer Marketing"],
+    "categoryTags": ["Strategy"],
+    "insight": "Increased Levi's online engagement through persona-driven content strategy and strategic influencer partnerships.",
+    "challenge": "Levi's sought to increase online engagement and brand affinity among younger audiences, especially in a competitive fashion space where ethical sourcing and cultural relevance are key.",
+    "strategy": "Created three detailed buyer personas to guide tone and platform targeting, from nostalgia-loving millennials to sustainability-conscious Gen Zs. Developed a full-funnel content plan focused on storytelling, lifestyle integration, and strategic partnerships.",
+    "process": [
+      "Built comprehensive buyer personas based on demographic and psychographic research",
+      "Created platform-specific content calendars with tailored formats for each social channel",
+      "Developed content pillars including brand collaborations, sustainability messaging, and artist partnerships"
+    ],
+    "results": [
+      {
+        "metric": "Cohesive",
+        "value": "digital voice",
+        "description": "Unified brand narrative blending storytelling with commerce"
+      },
+      {
+        "metric": "Persona-driven",
+        "value": "content strategy",
+        "description": "Targeted messaging aligned with each audience segment's values"
+      }
+    ],
+    "learnings": "Brand loyalty online isn't built through volume, but through value—persona-led narratives, platform fluency, and authenticity in every post create lasting connections.",
+    "previewImage": "/images/projects/levis.jpg",
+    "heroImage": "/images/projects/levis.jpg",
+    "heroType": "image",
+    "assetsDownload": "https://drive.google.com/file/d/1sp9aWtGZ4iCwIp9T0otMXGTAuGg4w2lg/preview"
+  },
+  {
+    "id": 8,
+    "title": "Marvel Studios: Future-Proofing the MCU",
+    "subtitle": "A boardroom pitch to recalibrate Marvel's universe through intimacy, depth, and cultural timing",
+    "year": "2023",
+    "projectType": "caseStudy",
+    "category": "Strategy",
+    "tags": ["Entertainment Strategy", "Franchise Planning", "Content Fatigue", "Boardroom Simulation"],
+    "categoryTags": ["Strategy"],
+    "insight": "Proposed strategic content slowdown and narrative reset to combat MCU franchise fatigue through character-focused storytelling.",
+    "challenge": "Marvel faced franchise fatigue post-Endgame, with declining fan engagement, weaker box office results, internal controversies and criticism around content volume and quality.",
+    "strategy": "Proposed a phased content slowdown and narrative reset grounded in cultural analysis, fan expectations, and competitor trajectories. Suggested focusing on ensemble intimacy over spectacle and character transformation over universe expansion.",
+    "process": [
+      "Conducted comprehensive brand diagnosis across MCU Phases 1-4",
+      "Analyzed cultural symbols, box office returns, trailer sentiments, and platform-specific feedback",
+      "Benchmarked against DC and indie studios to identify strategic opportunities"
+    ],
+    "results": [
+      {
+        "metric": "$100-150M",
+        "value": "budget cap proposal",
+        "description": "Strategic budget realignment to focus on character-driven narratives"
+      },
+      {
+        "metric": "Phase 5-6",
+        "value": "strategic roadmap",
+        "description": "Future-facing playbook for franchise reinvigoration"
+      }
+    ],
+    "learnings": "The MCU doesn't need to scale bigger—it needs to scale deeper. When storytelling honors character complexity and emotional pacing, universes grow not outward, but inward.",
+    "previewImage": "/images/projects/marvel.png",
+    "heroImage": "/images/projects/marvel.png",
+    "heroType": "image",
+    "assetsDownload": "https://drive.google.com/file/d/1chQAmRCZaIuvNodJV0FI-7tCiWmQA7IR/preview"
+  },
+  {
+    "id": 9,
+    "title": "AI's Impact on Social Media and Influencers",
+    "subtitle": "Analyzing the intersection of artificial intelligence and influencer culture",
+    "year": "2023",
+    "projectType": "research",
+    "category": "Research",
+    "tags": ["AI", "Influencers", "Social Media", "Technology"],
+    "categoryTags": ["Research"],
+    "insight": "Explored how AI technologies are reshaping influencer dynamics, audience engagement, and authenticity on social platforms.",
+    "researchFocus": "Understanding how AI technologies like recommendation engines, generative tools, and chatbots are reshaping influencer dynamics, audience engagement, and authenticity on social platforms.",
+    "methodology": "Case study analysis and literature review of platforms like Instagram, TikTok, and YouTube, along with emerging AI tools and their impact on content creation and audience behavior.",
+    "keyFindings": "AI-generated content is blurring the line between creators and algorithms. Influencer engagement is now driven more by machine-learning insights than human intuition. Trust and transparency remain key challenges as synthetic media becomes more prevalent.",
+    "implications": "Brands and influencers must adapt to a world where AI shapes reach, creativity, and audience behavior. There is a growing need for ethical guidelines and transparency in AI-assisted influencer marketing.",
+    "previewImage": "/images/projects/ai-social-impact.jpg",
+    "heroImage": "/images/projects/ai-social-impact.jpg",
+    "heroType": "image",
+    "assetsDownload": "https://drive.google.com/file/d/1gI0uh99p1wTEBiDeI1zlJp0NBQS9-H87/preview"
+  },
+  {
+    "id": 10,
+    "title": "Veganism Trends in India",
+    "subtitle": "A Study on the Rise of Vegan Products and Public Perception",
+    "year": "2021",
+    "projectType": "research",
+    "category": "Research",
+    "tags": ["Veganism", "Consumer Trends", "India", "Academic Research"],
+    "categoryTags": ["Research"],
+    "insight": "Analyzed growing vegan awareness in India, identifying opportunities and barriers in the plant-based market.",
+    "researchFocus": "To analyze the awareness, lifestyle impact, and public perception of vegan products in India, with a focus on soy-based alternatives and consumer adoption patterns.",
+    "methodology": "A literature review was conducted alongside the development and distribution of a structured questionnaire. Primary data was gathered from a sample of urban consumers using non-probability sampling techniques.",
+    "keyFindings": "A growing awareness of vegan diets is evident among young Indian consumers, with soy emerging as a preferred substitute. However, challenges around accessibility, affordability, and cultural food preferences still act as barriers to widespread adoption.",
+    "implications": "Brands should promote educational content and accessible product lines tailored to the Indian market. There's significant opportunity for plant-based innovation and partnerships with local health influencers.",
+    "previewImage": "/images/projects/veganism.png",
+    "heroImage": "/images/projects/veganism.png",
+    "heroType": "image",
+    "assetsDownload": "https://drive.google.com/file/d/17XIJ2e6wKcsKZGHgDXh2Wbxg5P5-mD0E/preview"
+  },
+  {
+    "id": 11,
+    "title": "Authenticity in Short-Form Influencer Content",
+    "subtitle": "Exploring Its Influence on Purchasing Decisions",
+    "year": "2024",
+    "projectType": "research",
+    "category": "Research",
+    "tags": ["Influencer Marketing", "Authenticity", "Digital Behavior", "Consumer Psychology"],
+    "categoryTags": ["Research"],
+    "insight": "Examined how perceived authenticity in influencer content impacts consumer engagement and purchasing decisions across platforms.",
+    "researchFocus": "To examine whether perceived authenticity in short-form influencer videos has a stronger impact on consumer engagement and purchasing decisions compared to traditional brand advertisements.",
+    "methodology": "Mixed-method research using surveys and data visualizations. Key metrics evaluated included engagement behavior, purchase frequency, and trust perception across demographic and psychographic segments.",
+    "keyFindings": "84.2% of respondents cited personal storytelling as the most influential authenticity factor. Frequent promotions reduce trust, while demonstrations and honest reviews significantly increased purchase confidence. Platform-specific behaviors showed TikTok triggering impulse purchases while YouTube supported research-based decisions.",
+    "implications": "Brands should prioritize authentic influencer partnerships using storytelling and transparency. Content strategies must adapt to platform-specific behaviors, with clicks and saves being more indicative of purchase intent than likes or comments.",
+    "previewImage": "/images/projects/market-research.jpg",
+    "heroImage": "/images/projects/market-research.jpg",
+    "heroType": "image",
+    "assetsDownload": "https://drive.google.com/file/d/1XEPvznPCr2JvEWqdHW2sezcMCsIMJ-4x/preview"
+  },
+  {
+    "id": 12,
+    "title": "A Study on the Impact of Music Streaming Apps on Radio",
+    "subtitle": "An Analytical Study of Millennial Media Preferences in India",
+    "year": "2020",
+    "projectType": "research",
+    "category": "Research",
+    "tags": ["Music Streaming", "Radio", "Digital Media", "Media Consumption", "India", "Millennials"],
+    "categoryTags": ["Research"],
+    "insight": "Analyzed the shift from traditional radio to music streaming among young Indians, revealing changing consumption patterns.",
+    "researchFocus": "To analyze the impact of music streaming applications on traditional radio consumption among 16–24-year-olds in India, examining preference shifts and behavioral changes.",
+    "methodology": "Mixed-method approach using cross-sectional surveys with a 5-point Likert Scale to derive quantitative data and analyze qualitative responses among young adults aged 16–24 across urban areas.",
+    "keyFindings": "75% of respondents use music streaming apps daily, while only 24% listen to radio regularly. Lack of personalization and excessive advertisements make radio less appealing to youth. Streaming platforms support independent artists and regional content, attracting younger and diverse audiences.",
+    "implications": "Radio broadcasters must innovate by incorporating on-demand and personalized content features. Advertising strategies need to shift towards platforms with accurate user analytics and targeted reach capabilities.",
+    "previewImage": "/images/projects/music-streaming.png",
+    "heroImage": "/images/projects/music-streaming.png",
+    "heroType": "image",
+    "assetsDownload": "https://drive.google.com/file/d/1Zmqd2InWm26KqB8UmyEyF0Wa-2fW-a9s/preview"
+  },
+  {
+    "id": 13,
+    "title": "Naturals Ice Cream: Digital Presence Audit",
+    "subtitle": "Brand audit and strategy evaluation of India's beloved ice cream chain",
+    "year": "2023",
+    "projectType": "caseStudy",
+    "category": "Strategy",
+    "tags": ["Social Media Audit", "Consumer Insights", "Brand Strategy", "FMCG"],
+    "categoryTags": ["Strategy"],
+    "insight": "Evaluated Naturals Ice Cream's digital brand presence and identified optimization opportunities for enhanced engagement.",
+    "challenge": "Evaluate Naturals Ice Cream's online brand engagement and identify optimization opportunities to improve digital presence and customer interaction.",
+    "strategy": "Comprehensive audit of existing presence across platforms, buyer persona mapping, and keyword SEO analysis to identify gaps and opportunities for improvement.",
+    "process": [
+      "Reviewed posting frequency, tone, and engagement rates across Instagram, Twitter, and Facebook",
+      "Analyzed two core buyer personas to understand behavior patterns and key touchpoints",
+      "Benchmarked SEO visibility using keyword targeting analysis and backlink evaluation"
+    ],
+    "results": [
+      {
+        "metric": "Identified",
+        "value": "engagement gaps",
+        "description": "Low engagement and content gaps across social platforms"
+      },
+      {
+        "metric": "Strategic",
+        "value": "recommendations",
+        "description": "Improved posting cadence, visual content, and influencer partnerships"
+      }
+    ],
+    "learnings": "Consistency, SEO-backed content, and responsive online reputation management are vital to thriving in the competitive food and lifestyle FMCG space.",
+    "previewImage": "/images/projects/naturals.jpg",
+    "heroImage": "/images/projects/naturals.jpg",
+    "heroType": "image",
+    "assetsDownload": "https://drive.google.com/file/d/19M8uJ4bPt4DHLSy7bHz7QmYQIEZePQo6/preview"
+  },
+  {
+    "id": 14,
+    "title": "Media Ethics: TikTok & Propaganda",
+    "subtitle": "Exploring misinformation, censorship, and ethical dilemmas on social media",
+    "year": "2023",
+    "projectType": "research",
+    "category": "Research",
+    "tags": ["Media Ethics", "Social Media", "Propaganda", "TikTok"],
+    "categoryTags": ["Research"],
+    "insight": "Investigated TikTok's ethical landscape, examining propaganda, misinformation, and the platform's impact on media integrity.",
+    "researchFocus": "To investigate the ethical landscape of TikTok with a focus on propaganda, misinformation, privacy concerns, and the role of government regulation in social media governance.",
+    "methodology": "Case-based analysis using real-world incidents, content moderation reviews, and ethical theory applications including Utilitarianism to evaluate platform decision-making and policy implications.",
+    "keyFindings": "TikTok is vulnerable to both state-driven and user-generated propaganda. Privacy breaches and content censorship present serious ethical dilemmas. Fact-checking partnerships and content transparency are essential to platform integrity.",
+    "implications": "Social media platforms must invest in ethical AI systems, transparent policies, and international moderation standards. There's a critical need for regulatory frameworks that balance free expression with harm prevention.",
+    "previewImage": "/images/projects/media-ethics.jpg",
+    "heroImage": "/images/projects/media-ethics.jpg",
+    "heroType": "image",
+    "assetsDownload": "https://drive.google.com/file/d/1HI1wDD33kKWt9NnW3P_y4-IbuqSAtseh/preview"
+  },
+  {
+    "id": 15,
+    "title": "Echoes of the City",
+    "subtitle": "A quiet storm of ambition, love, and loss in the city that never sleeps",
+    "year": "2024",
+    "projectType": "creative",
+    "category": "Storytelling & Design",
+    "tags": ["Scriptwriting", "Urban Drama", "Narrative Design"],
+    "categoryTags": ["Storytelling"],
+    "insight": "A raw, character-driven drama exploring the human condition in urban environments through interconnected storylines.",
+    "synopsis": "Three strangers. One city. A series of quiet collisions that unravel the layers of ambition, identity, and belonging in New York. 'Echoes of the City' is a raw, character-driven drama where an actress, a banker, and an artist confront the personal and societal forces shaping their lives.",
+    "role": "Writer & Concept Creator - Developed the original concept, wrote the screenplay, and created the narrative framework for character development and thematic exploration.",
+    "toolsUsed": ["Gamma", "Figma", "Final Draft"],
+    "designRationale": "Draws inspiration from ensemble dramas like 'Crash' and 'Birdman', capturing the emotional undercurrent of urban life. Each character arc reflects a different face of the modern metropolis—ambition, disillusionment, cultural erosion. The goal: create empathy through realism, and urgency through stillness.",
+    "previewImage": "/images/projects/echoes-city.jpg",
+    "heroImage": "/images/projects/echoes-city.jpg",
+    "heroType": "image",
+    "assetsDownload": "https://drive.google.com/file/d/14WJGhtB2p_sW_oB0TdklGXvdAGGyxESl/preview"
+  },
+  {
+    "id": 16,
+    "title": "Mythos Beyond Time",
+    "subtitle": "What if you could reshape destiny — not just watch it unfold?",
+    "year": "2024",
+    "projectType": "creative",
+    "category": "Storytelling & Design",
+    "tags": ["Interactive Narrative", "Mythology", "Worldbuilding"],
+    "categoryTags": ["Storytelling"],
+    "insight": "An immersive interactive narrative that bridges ancient mythology with modern storytelling through audience participation.",
+    "synopsis": "An artist's brush awakens gods. A shattered amulet holds the fate of realms. In this immersive interactive tale, your choices guide Nadia Rao as she battles chaos, forms divine alliances, and rewrites ancient myth in a modern world. Every decision counts. Every myth returns.",
+    "role": "Creator, Scriptwriter & Worldbuilder - Designed the interactive narrative system, created the mythological framework, and developed the branching storyline structure.",
+    "toolsUsed": ["Figma", "Notion", "Illustrator"],
+    "designRationale": "Inspired by Indian epics and the branching storytelling of 'Bandersnatch' and 'Percy Jackson', this project bridges lore with interactivity. Centers mythology as a universal, connective force in a fractured world. Built for transmedia expansion with audience-directed storytelling.",
+    "previewImage": "/images/projects/myth-beyond.png",
+    "heroImage": "/images/projects/myth-beyond.png",
+    "heroType": "image",
+    "assetsDownload": "https://drive.google.com/file/d/1KaYXqwC4tAUdls2WMQF-w1SSmGtoABqT/preview"
+  },
+  {
+    "id": 17,
+    "title": "Narratives Unbound",
+    "subtitle": "A visual dashboard comparing books with their movie adaptations",
+    "year": "2024",
+    "projectType": "caseStudy",
+    "category": "Data Viz",
+    "tags": ["Interactive Visualization", "Book vs Movie", "Media Analysis"],
+    "categoryTags": ["Data Viz"],
+    "insight": "Created an interactive exploration of story adaptation, allowing users to compare books with their cinematic interpretations.",
+    "challenge": "How do cinematic adaptations compare with the books that inspired them—and what does 'fidelity' really mean to audiences?",
+    "strategy": "Created an interactive dashboard that invites users to flip through adaptations, explore ratings, and reflect on story transformation across media formats.",
+    "process": [
+      "Built flip-card interface linking book covers to movie posters for intuitive comparison",
+      "Integrated custom fidelity scores and platform availability data",
+      "Enabled both grid and scatter-style navigation modes for different user preferences"
+    ],
+    "results": [
+      {
+        "metric": "Interactive",
+        "value": "comparison tool",
+        "description": "Engaging platform that gamifies media comparison and analysis"
+      },
+      {
+        "metric": "User-driven",
+        "value": "exploration",
+        "description": "Personal, playful approach to understanding adaptation fidelity"
+      }
+    ],
+    "learnings": "Narratives are not static. Giving users control to compare, explore, and interpret makes media analysis personal, playful, and powerful.",
+    "previewImage": "/images/projects/narratives-unbound-preview.jpg",
+    "heroImage": "/images/projects/narratives-unbound-preview.jpg",
+    "heroType": "image",
+    "liveLink": "https://rishib1700.github.io/Narratives-Unbound/"
+  },
+  {
+    "id": 18,
+    "title": "The Brand Project: A Visual Identity Journey",
+    "subtitle": "Tracing the evolution of logos, language, and meaning",
+    "year": "2024",
+    "projectType": "caseStudy",
+    "category": "Data Viz",
+    "tags": ["Brand Strategy", "Design Systems", "Visual Identity"],
+    "categoryTags": ["Data Viz"],
+    "insight": "Interactive exploration of brand evolution, showing how visual identity reflects strategic intent across time.",
+    "challenge": "How does brand identity evolve over time—and how do color, form, and voice reflect strategic intent and market positioning?",
+    "strategy": "Built an interactive journey that visually deconstructs a brand's logo, palette, typography, and tone across different phases of development.",
+    "process": [
+      "Used timeline structure to show shifts in brand positioning and visual language",
+      "Embedded contextual notes on messaging evolution, audience changes, and medium adaptation",
+      "Mapped design choices back to key business milestones and market conditions"
+    ],
+    "results": [
+      {
+        "metric": "Holistic",
+        "value": "brand view",
+        "description": "Complete visual journey through brand evolution and strategic development"
+      },
+      {
+        "metric": "Interactive",
+        "value": "timeline",
+        "description": "Users can walk through evolution rather than just read about it"
+      }
+    ],
+    "learnings": "A brand isn't just what it looks like—it's how it adapts visually and verbally to the world around it. Design is language in motion.",
+    "previewImage": "/images/projects/brand-project-preview.jpg",
+    "heroImage": "/images/projects/brand-project-preview.jpg",
+    "heroType": "image",
+    "liveLink": "https://rishib1700.github.io/brand-identity-journey/"
+  },
+  {
+    "id": 19,
+    "title": "FLARE: Ad Fatigue Detection Engine",
+    "subtitle": "A prototype dashboard to decode digital ad fatigue and optimize campaigns",
+    "year": "2024",
+    "projectType": "caseStudy",
+    "category": "Data Viz",
+    "tags": ["Ad Strategy", "Predictive Modeling", "Ethical Marketing", "Campaign Analytics"],
+    "categoryTags": ["Data Viz"],
+    "insight": "Developed a predictive dashboard to help advertisers detect and prevent ad fatigue before performance decline.",
+    "challenge": "How can advertisers detect when their campaigns are wearing thin—and act before performance plummets and audience trust erodes?",
+    "strategy": "Designed a dashboard using a custom Fatigue Risk Index (FRI) to track signs of ad fatigue and suggest timely interventions for campaign optimization.",
+    "process": [
+      "Classified fatigue in three stages: Friction, Fatigue, and Failure with specific indicators",
+      "Implemented dynamic charts using Plotly and Streamlit for real-time visualization",
+      "Generated personalized recommendations and calculated waste spend estimates"
+    ],
+    "results": [
+      {
+        "metric": "Predictive",
+        "value": "fatigue detection",
+        "description": "Early warning system for campaign performance decline"
+      },
+      {
+        "metric": "Ethical",
+        "value": "advertising tool",
+        "description": "Helps advertisers make timely, audience-respecting decisions"
+      }
+    ],
+    "learnings": "Performance data tells a story—if you know how to listen. Strategic pauses and creative shifts are as powerful as launch-day tactics.",
+    "previewImage": "/images/projects/flare-preview.jpg",
+    "heroImage": "/images/projects/flare-preview.jpg",
+    "heroType": "image",
+    "liveLink": "https://flare-dashboard.streamlit.app/"
+  },
+  {
+    "id": 20,
+    "title": "Vouch: Nightlife Reimagined",
+    "subtitle": "A minimalist, crowd-powered nightlife discovery tool built for real people—not algorithms",
+    "year": "2025",
+    "projectType": "caseStudy",
+    "category": "Strategy",
+    "tags": ["UX Strategy", "Product Design", "Community Tech"],
+    "categoryTags": ["Strategy"],
+    "insight": "Designed a human-first nightlife discovery platform that prioritizes authentic recommendations over algorithmic suggestions.",
+    "challenge": "How can we create a nightlife planning app that feels personal, spontaneous, and safe—without the clutter of social media or algorithmic noise?",
+    "strategy": "Designed a no-signup, crowd-sourced recommendation platform prioritizing real-time feedback and user trust over influencer culture or advertising revenue.",
+    "process": [
+      "Developed detailed personas and mapped psychographics of Gen Z and urban millennial users",
+      "Created competitive positioning maps against Yelp, TPSI, BarGlance, and other discovery platforms",
+      "Designed accessible, mobile-first UX with map-based and vibe-based filtering systems"
+    ],
+    "results": [
+      {
+        "metric": "Working",
+        "value": "UI prototype",
+        "description": "Complete branding system and user interface design"
+      },
+      {
+        "metric": "Human-first",
+        "value": "positioning",
+        "description": "Alternative to algorithm-driven event discovery platforms"
+      }
+    ],
+    "learnings": "Designing for trust and spontaneity means stripping away friction—not just adding features. Community insights outperform algorithmic curation for authentic experiences.",
+    "previewImage": "/images/projects/vouch.jpg",
+    "heroImage": "/images/projects/vouch.jpg",
+    "heroType": "image",
+    "assetsDownload": "https://drive.google.com/file/d/1OFCik39cDa_4WHfQL9XCZUWTHlQqMJtQ/preview"
+  },
+  {
+    "id": 21,
+    "title": "Verizon Logo: Bridging Legacy and Future",
+    "subtitle": "Exploring bold, modern logo systems rooted in brand heritage and digital clarity",
+    "year": "2025",
+    "projectType": "creative",
+    "category": "Storytelling & Design",
+    "tags": ["Logo Design", "Brand Redesign", "Typography"],
+    "categoryTags": ["Storytelling"],
+    "insight": "Explored three distinct logo pathways for Verizon, balancing recognizable legacy elements with fresh, user-centric design.",
+    "synopsis": "This identity design explores three distinct logo pathways for Verizon—each balancing its recognizable legacy symbols with a fresher, more user-centric style that reflects evolving customer expectations.",
+    "role": "Brand Designer - Conceptualized and designed multiple logo variations, conducted competitive analysis, and developed brand system guidelines.",
+    "toolsUsed": ["Illustrator", "Sketchbook", "Canva"],
+    "designRationale": "Introduced modular systems featuring the classic checkmark and extended 'Z' elements. Aligned visual tone with evolving customer perception and mobile-first touchpoints. Benchmarked against major telecom and media brands to achieve optimal balance of modernity and memorability.",
+    "previewImage": "/images/projects/verizon.png",
+    "heroImage": "/images/projects/verizon.png",
+    "heroType": "image",
+    "assetsDownload": "https://drive.google.com/file/d/1sqq7WNpn6uG6GCZw5zTFGE9sfJSIWU-l/preview"
+  },
+  {
+    "id": 22,
+    "title": "Book Cover Exploration",
+    "subtitle": "A visual reinterpretation inspired by editorial collage and textured minimalism",
+    "year": "2025",
+    "projectType": "creative",
+    "category": "Storytelling & Design",
+    "tags": ["Book Design", "Typography", "Color Theory"],
+    "categoryTags": ["Storytelling"],
+    "insight": "Reimagined classic literary work through contemporary design principles, layered illustration, and experimental typography.",
+    "synopsis": "A cover redesign project that reimagines a classic literary work through layered illustration, expressive color palettes, and mixed-type aesthetics that bridge traditional and contemporary design sensibilities.",
+    "role": "Cover Designer - Developed concept, created illustrations, and designed typography system for book cover redesign project.",
+    "toolsUsed": ["Illustrator", "Photoshop", "InDesign"],
+    "designRationale": "Utilized #6f8490, #0f2d30, and #702a2a color palette to evoke specific mood and emotional resonance. Combined serif and sans-serif fonts to create visual hierarchy and modern contrast. Used collage and cut-out inspired artwork to build symbolic visual metaphors.",
+    "previewImage": "/images/projects/book-redesign.png",
+    "heroImage": "/images/projects/book-redesign.png",
+    "heroType": "image",
+    "assetsDownload": "https://drive.google.com/file/d/1roVTmlU0Cnt2rf7_xOkpHsk2dHvSvhfM/preview"
+  }
+]
