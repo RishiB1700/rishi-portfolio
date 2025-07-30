@@ -15,7 +15,7 @@ export default function Blog() {
   const [floatingElements, setFloatingElements] = useState<Array<{ type: string; x: number; y: number; delay: number; rotation: number }>>([])
   const [loading, setLoading] = useState(true)
 
-  const filters = ['All', 'Strategy', 'Reflections', 'Reviews', 'Behind the Scenes']
+  const filters = ['All', 'strategy', 'reflections', 'reviews', 'behind-the-scenes']
 
   // Fetch posts from Sanity
   useEffect(() => {
@@ -34,8 +34,8 @@ export default function Blog() {
   }, [])
 
   const filteredPosts = activeFilter === 'All' 
-  ? posts 
-  : posts.filter(post => post.categories && post.categories.includes(activeFilter))
+    ? posts 
+    : posts.filter(post => post.categories && post.categories.includes(activeFilter))
 
   const sortedPosts = [...filteredPosts].sort((a, b) => {
     if (sortBy === 'Newest') {
@@ -88,13 +88,13 @@ export default function Blog() {
   // Focus management for drawer
   useEffect(() => {
     if (isDrawerOpen) {
-      const drawer = document.querySelector('[role="dialog"]')
+      const drawer = document.querySelector('[role="dialog"]') as HTMLElement
       if (drawer) {
         const focusableElements = drawer.querySelectorAll(
           'button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])'
-        )
-        const firstFocusable = focusableElements[0] as HTMLElement
-        const lastFocusable = focusableElements[focusableElements.length - 1] as HTMLElement
+        ) as NodeListOf<HTMLElement>
+        const firstFocusable = focusableElements[0]
+        const lastFocusable = focusableElements[focusableElements.length - 1]
 
         firstFocusable?.focus()
 
@@ -411,7 +411,7 @@ export default function Blog() {
                       <span>{post.readTime}</span>
                     </div>
                     <div className="w-1 h-1 bg-gray-400 rounded-full"></div>
-                    <span>{post.categories && post.categories.length > 0 ? post.categories[0] : 'General'}</span>
+                    <span>{post.categories && post.categories.length > 0 ? post.categories[0] : 'Uncategorized'}</span>
                   </div>
 
                   <div className="flex flex-wrap gap-2">
